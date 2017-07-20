@@ -1,2 +1,2 @@
 # gitskills
-creating a new branch is qucik.
+creating a new branch is qucik and simple.
